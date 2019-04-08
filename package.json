@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dompurify": "^1.0.10",
+    "markdown-it": "^8.4.2",
+    "markdown-it-diagrams": "0.0.6",
+    "markdown-it-mermaid": "^0.2.5",
+    "markdown-it-mermaid-pro": "^2.2.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
